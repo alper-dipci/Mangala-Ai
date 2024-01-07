@@ -1,0 +1,29 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 22863,
+                "file_path": "results\\=MangalaDeneme4\\My Behavior\\My Behavior-22863.onnx",
+                "reward": -17736.08064516129,
+                "creation_time": 1703685397.5968013,
+                "auxillary_file_paths": [
+                    "results\\=MangalaDeneme4\\My Behavior\\My Behavior-22863.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 22863,
+            "file_path": "results\\=MangalaDeneme4\\My Behavior.onnx",
+            "reward": -17736.08064516129,
+            "creation_time": 1703685397.5968013,
+            "auxillary_file_paths": [
+                "results\\=MangalaDeneme4\\My Behavior\\My Behavior-22863.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

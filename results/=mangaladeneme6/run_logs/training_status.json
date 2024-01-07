@@ -1,0 +1,66 @@
+{
+    "mangala": {
+        "checkpoints": [
+            {
+                "steps": 6499976,
+                "file_path": "results\\=mangaladeneme6\\mangala\\mangala-6499976.onnx",
+                "reward": -1012.5948553054662,
+                "creation_time": 1703706228.4969397,
+                "auxillary_file_paths": [
+                    "results\\=mangaladeneme6\\mangala\\mangala-6499976.pt"
+                ]
+            },
+            {
+                "steps": 6999989,
+                "file_path": "results\\=mangaladeneme6\\mangala\\mangala-6999989.onnx",
+                "reward": -578.7928571428571,
+                "creation_time": 1703707241.2512925,
+                "auxillary_file_paths": [
+                    "results\\=mangaladeneme6\\mangala\\mangala-6999989.pt"
+                ]
+            },
+            {
+                "steps": 7499977,
+                "file_path": "results\\=mangaladeneme6\\mangala\\mangala-7499977.onnx",
+                "reward": -479.4772182254197,
+                "creation_time": 1703708287.3136864,
+                "auxillary_file_paths": [
+                    "results\\=mangaladeneme6\\mangala\\mangala-7499977.pt"
+                ]
+            },
+            {
+                "steps": 7999991,
+                "file_path": "results\\=mangaladeneme6\\mangala\\mangala-7999991.onnx",
+                "reward": -379.12103746397696,
+                "creation_time": 1703709413.5251973,
+                "auxillary_file_paths": [
+                    "results\\=mangaladeneme6\\mangala\\mangala-7999991.pt"
+                ]
+            },
+            {
+                "steps": 8344875,
+                "file_path": "results\\=mangaladeneme6\\mangala\\mangala-8344875.onnx",
+                "reward": -618.8025830258302,
+                "creation_time": 1703710286.521025,
+                "auxillary_file_paths": [
+                    "results\\=mangaladeneme6\\mangala\\mangala-8344875.pt"
+                ]
+            }
+        ],
+        "elo": -0.3021632391763909,
+        "final_checkpoint": {
+            "steps": 8344875,
+            "file_path": "results\\=mangaladeneme6\\mangala.onnx",
+            "reward": -618.8025830258302,
+            "creation_time": 1703710286.521025,
+            "auxillary_file_paths": [
+                "results\\=mangaladeneme6\\mangala\\mangala-8344875.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
